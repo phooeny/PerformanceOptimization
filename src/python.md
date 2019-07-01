@@ -6,7 +6,7 @@ Pyhton
 
 
 
-##strptime
+## strptime
 
 * time.strptime()
 * datetime.datetime.strptime()
